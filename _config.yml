@@ -1,0 +1,28 @@
+name: nathancharlestest
+favicon: null
+layout_spectrum: 0.3324051920790225
+typography_spectrum: 0.916524536209181
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6473779119551182
+  lightness: 0.6363201376516372
+  saturation: 0.41397345811128616
+  rhythmicContrast: 0.6685451094526798
+purpose: []
